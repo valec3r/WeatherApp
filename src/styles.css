@@ -1,0 +1,62 @@
+input {
+  background-color: #ffdce2;
+  color: #00527f;
+  border-radius: 15px;
+  border: 2px solid #00527f;
+  padding: 5px 15px;
+}
+
+.city {
+  color: #00527f;
+  font-size: 55px;
+  font-family: "Prompt", sans-serif;
+  padding: 0px 15px 15px;
+}
+
+.main-card {
+  text-align: center;
+  padding: 0px 150px;
+}
+
+.card {
+  border: 2px solid #00527f;
+  border-radius: 25px;
+  margin: 10px 0 60px auto;
+}
+
+.card-body-today {
+  background-image: url(https://static.vecteezy.com/ti/foto-gratuito/p1/2259916-cielo-nuvoloso-al-tramonto-gratuito-foto.jpg);
+  border-radius: 25px;
+}
+
+.card-body-nextDays {
+  background-image: url(https://static.vecteezy.com/ti/foto-gratuito/p1/2259916-cielo-nuvoloso-al-tramonto-gratuito-foto.jpg);
+  border-radius: 25px;
+}
+.Today {
+  margin: 20px auto 5px;
+  font-size: 43px;
+  color: #00527f;
+}
+.imageToday {
+  margin: 30px auto 12px;
+  font-size: 60px;
+}
+.today-temperature {
+  margin: 20px auto;
+  font-size: 35px;
+}
+
+.followingDays {
+  font-size: 27px;
+  margin: 10px auto 15px;
+  color: #00527f;
+}
+.temperatureNextDays {
+  font-size: 19px;
+}
+
+.col-sm-4 {
+  text-align: center;
+  width: 500px;
+}
