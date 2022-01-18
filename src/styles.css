@@ -33,6 +33,7 @@ input {
   border-radius: 15px;
   border: 2px solid #00527f;
   padding: 5px 15px;
+  margin-right: 5px;
 }
 
 .city {
