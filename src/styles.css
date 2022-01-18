@@ -89,3 +89,11 @@ input {
   text-align: center;
   width: 500px;
 }
+.link {
+  color: #00527f;
+}
+.open-source {
+  text-align: center;
+  margin: 10px 0 60px auto;
+  color: #00527f;
+}
